@@ -1,0 +1,2 @@
+An ongoing research project. I'm trying to employ OpenDSS API to simulate faulty open conductor situations on a test feeder. And then, develope a machine learning algorithm to automatically detect these events using smart meter data.
+Open conductor faults are dangerous and their detection is quite critical to the eletrical power industry.
